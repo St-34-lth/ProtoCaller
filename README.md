@@ -1,2 +1,2 @@
 # FlooChat
-A social media app based on meeting people through games.
+A simple REST API application providing endpoints for retrieving and creating protein sequences associated with organisms.
